@@ -1,21 +1,24 @@
-# Command to run
-ng serve --open
-
-# Command used
-ng generate component <component-name>
-ng generate service <service-name>
-
-# To Create New project
-ng new <project-name>
-
-# To Deploy
-ng build
-## and deploy the --dist-- folder(contains js files) to the server
-
 
 # AngularCrashTodolist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+
+## Command to run
+ng serve --open
+
+## Command used
+ng generate component <component-name>
+ng generate service <service-name>
+
+## To Create New project
+ng new <project-name>
+
+## To Deploy
+ng build
+### and deploy the --dist-- folder(contains js files) to the server
+
+
+
 
 ## Development server
 
@@ -40,3 +43,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+[Source](https://youtu.be/Fdf5aTYRW0E)
