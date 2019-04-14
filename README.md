@@ -1,3 +1,18 @@
+# Command to run
+ng serve --open
+
+# Command used
+ng generate component <component-name>
+ng generate service <service-name>
+
+# To Create New project
+ng new <project-name>
+
+# To Deploy
+ng build
+## and deploy the --dist-- folder(contains js files) to the server
+
+
 # AngularCrashTodolist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
